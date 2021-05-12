@@ -23,9 +23,6 @@ double produit_scalaire(vector< vector<double> > X, int k,vector<double> b){
 
 
 
-
-
-
 vector<double> adaline(){
     double error;
     int t;
